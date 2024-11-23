@@ -1,0 +1,50 @@
+
+*{
+    padding:0px;
+    margin: 0px;
+}
+.black{
+    background-color: black;
+}
+.pad{
+    padding: 0px 5px;
+}
+.p1{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.center{
+    text-align: center;
+    padding: 100px;
+}
+.font{
+    font-size: 18px;
+}
+h1{
+    font-size: 45px;
+}
+.img1{
+    width: 100%;
+}
+.sider{
+    position: absolute;
+    left:2%;
+    top: 100%;
+    color: white;
+}
+.padd{
+    padding: 10px 0px;
+}
+.font-head{
+    font-size: 45px;
+}
+.anchor{
+    color: black;
+    background-color: grey;
+    text-decoration: none;
+    padding:10px 5px;
+}
+.anchor:hover{
+    background-color: rgb(174, 170, 170);
+}
